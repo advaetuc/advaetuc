@@ -26,7 +26,7 @@
 | 💰 **Patreon** | Turned that into a monthly code-pack subscription |
 | 🕹️ **Junior → Lead Gameplay Engineer** | Hired through Patreon by a US studio, promoted after proving out real systems |
 | 🧟 **Zombie Survival MP** | A multiplayer survival title — shelved when server funding ran out |
-| 🎬 **A 2-Year Campaign** | A story-driven campaign game, two years deep — paused when investors pulled back |
+| 🎬 **A 2-Year Campaign** | A story driven campaign game, two years deep — paused when investors pulled back |
 
 <br/>
 
