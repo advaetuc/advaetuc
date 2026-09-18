@@ -77,17 +77,9 @@ Runs a **YOLOv8n + MediaPipe Pose** pipeline to track multiple people at once, e
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=advaetuc&show_icons=true&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9&bg_color=00000000&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=advaetuc&show_icons=true&title_color=7C3AED&icon_color=7C3AED&text_color=24292f&bg_color=00000000&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=advaetuc&show_icons=true&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9&bg_color=00000000&hide_border=true" height="165" alt="GitHub stats" />
-</picture>
-&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=advaetuc&layout=compact&title_color=A855F7&text_color=c9d1d9&bg_color=00000000&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=advaetuc&layout=compact&title_color=7C3AED&text_color=24292f&bg_color=00000000&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=advaetuc&layout=compact&title_color=A855F7&text_color=c9d1d9&bg_color=00000000&hide_border=true" height="165" alt="Top languages" />
-</picture>
+  <img src="https://github-stats-extended.vercel.app/api?username=advaetuc&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=midnight-purple" height="165" alt="GitHub stats" />
+  &nbsp;
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=advaetuc&layout=compact&theme=midnight-purple" height="165" alt="Top languages" />
 
 </div>
 
