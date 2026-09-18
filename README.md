@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3200&pause=1100&color=C77DFF&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Advaet;Gameplay+Engineer+%E2%86%92+CS+Student;Filmmaker+at+heart" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3200&pause=1100&color=E6EDF3&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Advaet;Gameplay+Engineer+%E2%86%92+CS+Student;Filmmaker+at+heart" alt="Typing SVG" />
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=advaetuc&label=Profile%20Views&color=6D28D9&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=advaetuc&label=Profile%20Views&color=8b949e&style=flat-square" alt="Profile views" />
   <br/>
   <i>A sarcastic cinephile and anthropoid.</i>
 </div>
@@ -48,10 +48,10 @@ Runs a **YOLOv8n + MediaPipe Pose** pipeline to track multiple people at once, e
 - ✅ Backed by 19 unit tests across scoring, geometry, and tracking
 
 <p align="center">
-<img src="https://img.shields.io/badge/YOLOv8-2D1B4E?style=for-the-badge&logoColor=C77DFF" />
-<img src="https://img.shields.io/badge/MediaPipe-2D1B4E?style=for-the-badge&logoColor=C77DFF" />
-<img src="https://img.shields.io/badge/OpenCV-2D1B4E?style=for-the-badge&logo=opencv&logoColor=C77DFF" />
-<img src="https://img.shields.io/badge/PyQt-2D1B4E?style=for-the-badge&logo=qt&logoColor=C77DFF" />
+<img src="https://img.shields.io/badge/YOLOv8-24292F?style=for-the-badge&logoColor=E6EDF3" />
+<img src="https://img.shields.io/badge/MediaPipe-24292F?style=for-the-badge&logoColor=E6EDF3" />
+<img src="https://img.shields.io/badge/OpenCV-24292F?style=for-the-badge&logo=opencv&logoColor=E6EDF3" />
+<img src="https://img.shields.io/badge/PyQt-24292F?style=for-the-badge&logo=qt&logoColor=E6EDF3" />
 </p>
 
 <br/>
@@ -59,23 +59,21 @@ Runs a **YOLOv8n + MediaPipe Pose** pipeline to track multiple people at once, e
 ## ▍ Tech Stack
 
 <p align="center">
-<img src="https://img.shields.io/badge/Python-2D1B4E?style=for-the-badge&logo=python&logoColor=C77DFF" />
-<img src="https://img.shields.io/badge/OpenCV-2D1B4E?style=for-the-badge&logo=opencv&logoColor=C77DFF" />
-<img src="https://img.shields.io/badge/Git-2D1B4E?style=for-the-badge&logo=git&logoColor=C77DFF" />
-<img src="https://img.shields.io/badge/VS%20Code-2D1B4E?style=for-the-badge&logo=visualstudiocode&logoColor=C77DFF" />
+<img src="https://img.shields.io/badge/Python-24292F?style=for-the-badge&logo=python&logoColor=E6EDF3" />
+<img src="https://img.shields.io/badge/OpenCV-24292F?style=for-the-badge&logo=opencv&logoColor=E6EDF3" />
+<img src="https://img.shields.io/badge/Git-24292F?style=for-the-badge&logo=git&logoColor=E6EDF3" />
+<img src="https://img.shields.io/badge/VS%20Code-24292F?style=for-the-badge&logo=visualstudiocode&logoColor=E6EDF3" />
 </p>
 
 <br/>
 
 ## ▍ Stats
 
-<!-- 🔧 Replace advaetuc with your GitHub username throughout this section -->
-
 <div align="center">
 
-  <img src="https://github-stats-extended.vercel.app/api?username=advaetuc&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=midnight-purple" height="165" alt="GitHub stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=advaetuc&rank_icon=percentile&show_icons=true&include_all_commits=true&title_color=E6EDF3&icon_color=8B949E&text_color=8B949E&bg_color=00000000&hide_border=true" height="165" alt="GitHub stats" />
   &nbsp;
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=advaetuc&layout=compact&theme=midnight-purple" height="165" alt="Top languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=advaetuc&layout=compact&title_color=E6EDF3&text_color=8B949E&bg_color=00000000&hide_border=true" height="165" alt="Top languages" />
 
 </div>
 
@@ -84,8 +82,8 @@ Runs a **YOLOv8n + MediaPipe Pose** pipeline to track multiple people at once, e
 ## ▍ Connect
 
 <p align="center">
-<a href="https://github.com/advaetuc"><img src="https://img.shields.io/badge/GitHub-2D1B4E?style=for-the-badge&logo=github&logoColor=C77DFF" /></a>
-<a href="mailto:advaetumeshc@gmail.com"><img src="https://img.shields.io/badge/Email-2D1B4E?style=for-the-badge&logo=gmail&logoColor=C77DFF" /></a>
+<a href="https://github.com/advaetuc"><img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=E6EDF3" /></a>
+<a href="mailto:advaetumeshc@gmail.com"><img src="https://img.shields.io/badge/Email-24292F?style=for-the-badge&logo=gmail&logoColor=E6EDF3" /></a>
 </p>
 
 <br/>
