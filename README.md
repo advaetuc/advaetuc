@@ -56,7 +56,7 @@ Runs a **YOLOv8n + MediaPipe Pose** pipeline to track multiple people at once, e
 
 <br/>
 
-## ▍ Toolkit
+## ▍ Tech Stack
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-2D1B4E?style=for-the-badge&logo=python&logoColor=C77DFF" />
