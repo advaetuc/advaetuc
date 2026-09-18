@@ -1,13 +1,9 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3200&pause=1100&color=C77DFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Advaet;Gameplay+Engineer+%E2%86%92+CS+Student;Filmmaker+at+heart" alt="Typing SVG" />
-
-<img src="https://komarev.com/ghpvc/?username=advaetuc&label=Profile%20Views&color=6D28D9&style=flat-square" alt="Profile views" />
-
-<br/>
-
-<i>Films own my heart. Code pays the way — and I love it anyway.</i>
-
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3200&pause=1100&color=C77DFF&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Advaet;Gameplay+Engineer+%E2%86%92+CS+Student;Filmmaker+at+heart" alt="Typing SVG" />
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=advaetuc&label=Profile%20Views&color=6D28D9&style=flat-square" alt="Profile views" />
+  <br/>
+  <i>A sarcastic cinephile and anthropoid.</i>
 </div>
 
 <br/>
@@ -38,7 +34,7 @@
 
 <div align="center">
 
-### 🩻 VERTEBRATE
+### VERTEBRATE
 <i>A locally-hosted, real-time human fall detection system</i>
 
 </div>
@@ -94,11 +90,14 @@ Runs a **YOLOv8n + MediaPipe Pose** pipeline to track multiple people at once, e
 
 <br/>
 
+## ▍ Contributions
+
 <div align="center">
-<sub>engineered in code, directed in daydreams</sub>
+  ![snake gif](https://github.com/advaetuc/advaetuc/blob/output/github-snake-dark.svg)
 </div>
 
-<div align="center">  
+<br/>
 
-  ![snake gif](https://github.com/advaetuc/advaetuc/blob/output/github-snake-dark.svg)
+<div align="center">
+<sub>engineered in code, directed in daydreams</sub>
 </div>
