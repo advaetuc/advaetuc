@@ -73,7 +73,7 @@ Runs a **YOLOv8n + MediaPipe Pose** pipeline to track multiple people at once, e
 
   <img src="https://github-stats-extended.vercel.app/api?username=advaetuc&rank_icon=percentile&show_icons=true&include_all_commits=true&title_color=E6EDF3&icon_color=8B949E&text_color=8B949E&bg_color=00000000&hide_border=true" height="165" alt="GitHub stats" />
   &nbsp;
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=advaetuc&layout=compact&title_color=E6EDF3&text_color=8B949E&bg_color=00000000&hide_border=true" height="165" alt="Top languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=advaetuc&layout=compact&title_color=E6EDF3&text_color=8B949E&bg_color=00000000&hide_border=true&invalidate=true" height="165" alt="Top languages" />
 
 </div>
 
