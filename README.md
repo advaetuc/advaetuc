@@ -106,7 +106,7 @@ Runs a **YOLOv8n + MediaPipe Pose** pipeline to track multiple people at once, e
   <a href="https://github.com/advaetuc">
     <img src="https://img.shields.io/badge/GitHub-advaetuc-24292F?style=for-the-badge&logo=github&logoColor=E6EDF3" />
   </a>
-  <a href="https://www.linkedin.com/in/advaetumesh">
+  <a href="https://in.linkedin.com/in/advaetumesh">
     <img src="https://img.shields.io/badge/LinkedIn-advaetumesh-24292F?style=for-the-badge&logo=linkedin&logoColor=E6EDF3" />
   </a>
   <a href="mailto:advaetumeshc@gmail.com">
