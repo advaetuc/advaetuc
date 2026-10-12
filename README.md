@@ -11,7 +11,7 @@
 ## 🎓 About Me
 
 - 🎓 First-year **BTech CSE** student at **MITWPU, Pune**
-- 🔧 Building **VERTEBRATE** — a real-time, vision-based fall detection system
+- 🔧 Building **GASLIGHTR** — a native Photoshop enhancement plugin for neural rendering
 - 🎮 Cut my teeth as a **gameplay engineer**, shipping systems for two indie titles
 - 🎬 Chasing a career at the intersection of **code and cinema**
 - 📹 Taught game dev on **YouTube** and sold code packs through **Patreon**
@@ -39,19 +39,19 @@
 
 </div>
 
-Runs a **YOLOv8n + MediaPipe Pose** pipeline to track multiple people at once, extract per-track body geometry, and classify fall events live — through a custom **PyQt** dashboard with live video, telemetry, and tunable config sliders.
+Runs a local **YOLO11n pose** pipeline in a background **QThread**, combining body geometry with a debounced posture heuristic before sending copied frames and alert state to a **PySide6** GUI through Qt signals. The camera and model remain owned by the worker, while the main thread owns every widget and limits the interface to one pending frame.
 
-- 🎯 Multi-person detection & tracking in real time
-- 🧮 Per-landmark motion smoothing via a custom One Euro Filter bank
-- 🎛️ Live-patching config through the GUI, no restarts needed
-- 🎞️ Automatic clip-saving on fall alerts via a rolling frame buffer
-- ✅ Backed by 19 unit tests across scoring, geometry, and tracking
+- 🎯 Local CPU inference from webcam input with no footage upload or recording
+- 🧮 Fall posture heuristic based on bounding-box aspect ratio and shoulder-to-hip geometry
+- 🚦 Scene-wide debounce requiring five consecutive processed frames before alerting
+- 🧵 Cooperative Start/Stop lifecycle with camera release handled during worker shutdown
+- ✅ Red/green OpenCV skeleton overlays and a live **FALL DETECTED** banner
 
 <p align="center">
-  <img src="https://img.shields.io/badge/YOLOv8-24292F?style=for-the-badge&logoColor=E6EDF3" />
-  <img src="https://img.shields.io/badge/MediaPipe-24292F?style=for-the-badge&logoColor=E6EDF3" />
+  <img src="https://img.shields.io/badge/YOLO11n-24292F?style=for-the-badge&logoColor=E6EDF3" />
   <img src="https://img.shields.io/badge/OpenCV-24292F?style=for-the-badge&logo=opencv&logoColor=E6EDF3" />
-  <img src="https://img.shields.io/badge/PyQt-24292F?style=for-the-badge&logo=qt&logoColor=E6EDF3" />
+  <img src="https://img.shields.io/badge/PySide6-24292F?style=for-the-badge&logo=qt&logoColor=E6EDF3" />
+  <img src="https://img.shields.io/badge/Python%203.12-24292F?style=for-the-badge&logo=python&logoColor=E6EDF3" />
 </p>
 
 ---
