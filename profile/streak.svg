@@ -22,8 +22,8 @@
             <g style='isolation: isolate'>
                 <!-- Total Contributions big number -->
                 <g transform='translate(82.5, 48)'>
-                    <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#8b949e' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='700' font-size='28px' font-style='normal' style='opacity: 1; opacity: 1;'>
-                        308
+                    <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#e6edf3' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='700' font-size='28px' font-style='normal' style='opacity: 1; opacity: 1;'>
+                        309
                     </text>
                 </g>
 
@@ -77,7 +77,7 @@
             <g style='isolation: isolate'>
                 <!-- Longest Streak big number -->
                 <g transform='translate(412.5, 48)'>
-                    <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#8b949e' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='700' font-size='28px' font-style='normal' style='opacity: 1; opacity: 1;'>
+                    <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#e6edf3' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='700' font-size='28px' font-style='normal' style='opacity: 1; opacity: 1;'>
                         51
                     </text>
                 </g>
