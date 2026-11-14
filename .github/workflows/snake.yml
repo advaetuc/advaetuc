@@ -9,9 +9,9 @@ on:
   workflow_dispatch:
 
   # Trigger the workflow on pushes to the main branch
-  push:
-    branches:
-      - main
+  #push:
+    #branches:
+      #- main
 
 # THIS IS THE CRUCIAL FIX: Grants the bot permission to push to the output branch
 permissions:
