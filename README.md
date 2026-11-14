@@ -92,11 +92,11 @@ Runs a local **YOLO11n pose** pipeline in a background **QThread**, combining bo
 
 <div align="center">
 
+  <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
+
   <img src="./profile/stats.svg" height="165" alt="GitHub stats" />
   &nbsp;
   <img src="./profile/top-langs.svg" height="165" alt="Top languages" />
-
-  <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 
 </div>
 
